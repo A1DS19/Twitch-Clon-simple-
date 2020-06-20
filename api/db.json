@@ -1,23 +1,15 @@
 {
   "streams": [
     {
-      "title": "Happy Stream",
-      "description": "marica",
-      "id": 1
-    },
-    {
-      "description": "hello world",
-      "title": "Tarkov play",
-      "id": 2
-    },
-    {
-      "title": "Stream 2",
-      "description": "Stream 2",
+      "title": "userId?",
+      "description": "userId?",
+      "userId": "106209952632976166251",
       "id": 3
     },
     {
-      "title": "stream 3",
-      "description": "stream 3",
+      "title": "nav prog",
+      "description": "works?",
+      "userId": "106209952632976166251",
       "id": 4
     }
   ]
