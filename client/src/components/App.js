@@ -1,6 +1,7 @@
 import React from 'react';
 import { Router, Route, Switch } from 'react-router-dom';
 import Header from './Header';
+import Footer from './Footer';
 import StreamList from '../components/streams/StreamList';
 import StreamCreate from '../components/streams/StreamCreate';
 import StreamDelete from '../components/streams/StreamDelete';
@@ -23,6 +24,7 @@ function App() {
           </Switch>
         </div>
       </Router>
+      <Footer />
     </div>
   );
 }
