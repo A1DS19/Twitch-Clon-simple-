@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {Fragment} from 'react';
 import { Router, Route, Switch } from 'react-router-dom';
 import Header from './Header';
 import Footer from './Footer';
@@ -11,6 +11,7 @@ import history from '../history';
 
 function App() {
   return (
+    <Fragment>
     <div className='ui container'>
       <Router history={history}>
         <div>
@@ -24,8 +25,9 @@ function App() {
           </Switch>
         </div>
       </Router>
-      <Footer />
     </div>
+    <Footer/>
+    </Fragment>
   );
 }
 
