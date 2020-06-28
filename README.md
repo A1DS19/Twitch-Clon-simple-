@@ -2,15 +2,15 @@ Clon de Twitch(simple) en React con Redux
 Uso:
 
 Ir a rtmtp:
-1.npm i
+1.npm i .
 2.npm start
 
 Ir a api:
-1.npm i
+1.npm i .
 2.mpm start
 
 Ir a client:
-1.npm i
+1.npm i .
 2.npm start
 
 Desde obs:
